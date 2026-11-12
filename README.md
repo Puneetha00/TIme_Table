@@ -1,2 +1,3 @@
-click below to visit time table
-[visit time table] (https://puneetha00.github.io/TIme_Table/)
+Click below to visit time table:
+
+[Visit Time Table](https://puneetha00.github.io/TIme_Table/)
